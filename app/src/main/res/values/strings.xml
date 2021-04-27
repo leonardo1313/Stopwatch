@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="zero_time">00:00:00.000</string>
+    <string name="startButton">Start</string>
+    <string name="lapButton">Lap</string>
+    <string name="stop_resetButton">Stop/Reset</string>
+    <string name="zeroTime_lapView">LAP TIME    00:00:00.000</string>
+</resources>
